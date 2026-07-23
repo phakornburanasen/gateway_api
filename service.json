@@ -1,0 +1,16 @@
+{
+  "O365": "http://127.0.0.1:5000",
+  "ServicesAD": "http://10.0.32.18:5000",
+  "ServicesADUsrExtExp": "http://10.0.32.18:5005",
+  "ServicesADUsrExp": "http://10.0.32.18:5020",
+  "app3": "http://127.0.0.1:5025",
+  "HelpDesk": "http://10.0.32.18:5099",
+  "Reports": "http://127.0.0.1:5100",
+  "adobe": "http://127.0.0.1:5105",
+  "ReportAdobe": "http://127.0.0.1:5106",
+  "CyberSecurity": "http://127.0.0.1:5107",
+  "RFID": "http://10.0.32.71:5108",
+  "CountingSystem": "http://10.115.2.61:8010",
+  "EndpointMonitor": "http://10.115.2.61:8030"
+
+}
